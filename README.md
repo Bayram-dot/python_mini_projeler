@@ -1,10 +1,5 @@
 # Python3 Mini Projeler
 
-Boş zamanlarımda hobi olarak eğitim serisi tarzında python da yazdığım mini mini projeler bunlar :)
-
-Bütün proje dosyalarına gerekli açıklamaları ayrıntılı bir şekilde yazdım.
-
-Çok az programlama bilgisi olan biri için başlangıç seviyesinde yararlı olabileceğini düşündüğüm uygulamaları yazdım.
 
 **NOT** 
 > Kodları Ubuntuda, PyCharm Editorünü kullanarak yazdım. Kodları Windowsta hiç denemedim ne sonuçlar vereceğini bilmiyorum o yüzden
@@ -42,6 +37,4 @@ pip install -r requirements.txt
 1. [Ubuntu](http://www.ubuntu.com/download)
 
 2. [PyCharm Community Edition](https://www.jetbrains.com/pycharm-edu/download/)
----------------
- 
-#### [@ozcanyarimdunya](http://semiworld.org) 
+--------------
